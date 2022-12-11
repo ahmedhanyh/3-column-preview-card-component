@@ -28,7 +28,6 @@
 - Semantic HTML5 markup
 - CSS custom properties
 - CSS Grid
-- Flexbox
 - BEM CSS class naming methodology
 
 ### Useful resources
